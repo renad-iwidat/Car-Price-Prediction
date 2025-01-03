@@ -14,7 +14,6 @@ A comprehensive machine learning project for predicting car prices based on a va
 6. [Results](#results)
 7. [Requirements](#requirements)
 8. [Usage](#usage)
-9. [License](#license)
 
 ---
 
@@ -159,11 +158,6 @@ Split the data into training and testing sets, and train the models:
 ### Step 5: Make Predictions
 Use the trained models to predict car prices for new data.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
