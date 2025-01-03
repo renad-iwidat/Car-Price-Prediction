@@ -49,6 +49,21 @@ The project processes and utilizes the following features for prediction:
 
 ---
 
+## Project Structure
+
+```
+Car-Price-Prediction/
+├── data/                  # Directory containing raw HTML files for feature extraction
+├── extract_features.ipynb # Notebook for extracting features from HTML files
+├── handling_data.ipynb    # Notebook for cleaning, preprocessing, and preparing data
+├── models/                # Directory for trained models (optional)
+├── README.md              # Project documentation
+├── cars_dataset.csv       # Extracted and cleaned dataset
+├── handling_data.csv      # Preprocessed dataset for modeling
+```
+
+---
+
 ## Data Processing
 
 ### 1. Feature Extraction
@@ -159,4 +174,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - Build a user-friendly web interface for real-time car price predictions.
 
 ---
-
