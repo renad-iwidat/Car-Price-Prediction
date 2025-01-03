@@ -137,7 +137,7 @@ pip install -r requirements.txt
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/username/Car-Price-Prediction.git
+git clone https://github.com/renad-iwidat/Car-Price-Prediction.git
 cd Car-Price-Prediction
 ```
 
